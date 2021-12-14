@@ -1,5 +1,4 @@
 # Your code goes here:
-
 def render_person(param):
     return param
 
